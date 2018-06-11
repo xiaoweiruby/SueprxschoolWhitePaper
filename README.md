@@ -47,7 +47,7 @@ SXST 的发放的总数量为：100亿 SXST；
 - B 轮： 6 亿 SXST； 融资   5  亿，完成全球化的扩张；
 
 # 二、产品打造 PRODUCT BUILDING
-
+[![PRODUCT](image/product.png)](www.superxschool.com)
 我们的 SUPERXSCHOOL 需要完成网页端的产品和移动端的产品。
 
 在教育学习的场景里面，主要包括线上通关学习，线上产品提交激励，下线活动参与激励的过程中，完成 TOKEN 的奖励；
