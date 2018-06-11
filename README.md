@@ -2,6 +2,12 @@
 
 [![SueprxschoolWhitePaper](image/SueprxschoolWhitePaper.png)](www.superxschool.com)
 
+* [一、通证激励 TOKEN INCENTIVE](TOKEN.md)
+* [二、产品打造 PRODUCT BUILDING](PRODUCT.md)
+* [三、技术结构 TECHNICAL STRUCTURE](TECHNICAL.md)
+* [四、团队构成 TEAM COMPOSITION](TEAM.md)
+* [五、盈利模式 PROFIT MODEL](PROFIT.md)
+
 * [一、TOKEN 激励](TOKEN.md)
 [![TOKEN](image/SXST.png)](www.superxschool.com)
 
@@ -37,3 +43,5 @@ SXST 的发放的总数量为：100亿 SXST；
 - 天使轮：1 亿 SXST； 融资 1000 万，完成团队化的运作；
 - A 轮： 3 亿 SXST； 融资  1.5 亿，完成产品化的迭代；
 - B 轮： 6 亿 SXST； 融资   5  亿，完成全球化的扩张；
+
+* [二、产品打造 PRODUCT BUILDING](PRODUCT.md)
