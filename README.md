@@ -90,7 +90,8 @@ SXST 的发放的总数量为：100亿 SXST；
 
 # 三、技术结构 TECHNICAL STRUCTURE
 # 四、团队构成 TEAM COMPOSITION
-[![TOKEN](image/xiaowei.png)](www.superxschool.com)
+[![团队成员](image/xiaowei.png)](www.superxschool.com)
+
 # 创始人：肖威
 全栈工程师 EOS的定投践行者 COINXP早期参与者 区块链实用教育发起人
 区块链黑客马拉松冠军选手
