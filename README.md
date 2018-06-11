@@ -90,6 +90,8 @@ SXST 的发放的总数量为：100亿 SXST；
 - 2018年11月 上线 SueprxSchool 苹果端应用；
 
 # 三、技术结构 TECHNICAL STRUCTURE
+[![团队成员](image/TECHNICAL.png)](www.superxschool.com)
+
 # 四、团队构成 TEAM COMPOSITION
 [![团队成员](image/xiaowei.png)](www.superxschool.com)
 
